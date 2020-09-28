@@ -1,3 +1,5 @@
+||t7z.cupid.iqiyi.com^$important
+||ad.12306.cn^$important
 @@||dns.weixin.qq.com^$important
 @@||*.cdninstagram.com^$important
 @@||update.miui.com^$important
@@ -208,3 +210,7 @@
 ||*.dlads.cn^$important
 @@||*.woozooo.com^$important
 @@||m.qpic.cn^$important
+||upgrade.xl9.xunlei.com^$important
+||hub5emu.sandai.net^$important
+||hub5btmain.sandai.net^$important
+@@||*.doglobal.net^$important
