@@ -1,3 +1,11 @@
+[/meituan.net/]tls://dns.alidns.com
+[/meituan.net/]tls://dns.pub
+[/www.meituan.net/]tls://dns.alidns.com
+[/www.meituan.net/]tls://dns.pub
+[/meituan.com/]tls://dns.alidns.com
+[/meituan.com/]tls://dns.pub
+[/www.meituan.com/]tls://dns.alidns.com
+[/www.meituan.com/]tls://dns.pub
 [/mobile.12306.cn/]tls://dns.alidns.com
 [/mobile.12306.cn/]tls://dns.pub
 [/12306.cn/]tls://dns.alidns.com
