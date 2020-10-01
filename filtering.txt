@@ -2,6 +2,7 @@
 ||ad.12306.cn^$important
 ||sconf.f.360.cn^$important
 ||p.s.360.cn^$important
+@@||*.sankuai.com^$important
 @@||*.dianping.com^$important
 @@||*.meituan.net^$important
 @@||*.meituan.com^$important
@@ -14,7 +15,8 @@
 @@||view.inews.qq.com^$important
 @@||api.sec.miui.com^$important
 @@||cdn.ark.qq.com^$important
-@@||*.wxs.qq.com^$important
+@@||*.wxs.qq.com^
+||wxsnsdy.wxs.qq.com^$important
 @@||*.bdimg.com^$important
 @@||t1.baidu.com^$important
 @@||t2.baidu.com^$important
@@ -165,10 +167,12 @@
 @@||images.uc.cn^$important
 @@||restapi.amap.com^$important
 @@||plbslog.umeng.com^$important
-@@||*.gdt.qq.com^$important
+@@||*.gdt.qq.com^
+||mi.gdt.qq.com^$important
 @@||*.duoku.com^$important
 @@||*.netease.com^$important
 @@||*.mkey.163.com^$important
+||gorgon.youdao.com^$important
 @@||*.mipay.com^$important
 @@||*.miwifi.com^$important
 @@||*.data.microsoft.com^$important
@@ -219,3 +223,4 @@
 ||hub5emu.sandai.net^$important
 ||hub5btmain.sandai.net^$important
 @@||*.doglobal.net^$important
+||dp3.qq.com^$important
