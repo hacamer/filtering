@@ -2,6 +2,7 @@
 ||ad.12306.cn^$important
 ||sconf.f.360.cn^$important
 ||p.s.360.cn^$important
+@@||*.ydstatic.com^$important
 @@||*.sankuai.com^$important
 @@||*.dianping.com^$important
 @@||*.meituan.net^$important
