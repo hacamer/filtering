@@ -1,5 +1,10 @@
 ||t7z.cupid.iqiyi.com^$important
 ||ad.12306.cn^$important
+||sconf.f.360.cn^$important
+||p.s.360.cn^$important
+@@||*.dianping.com^$important
+@@||*.meituan.net^$important
+@@||*.meituan.com^$important
 @@||dns.weixin.qq.com^$important
 @@||*.cdninstagram.com^$important
 @@||update.miui.com^$important
@@ -200,7 +205,7 @@
 @@||www.qq.com^$important
 ||scdn.abawa.top^$important
 @@||cn.bing.com^$important
-@@||360.cn^$important
+@@||360.cn^
 @@||dlied6.qq.com^$important
 @@||misc.wcd.qq.com^$important
 @@||pingtas.qq.com^$important
