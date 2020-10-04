@@ -1,3 +1,5 @@
+@@||*.shifen.com^
+@@||shifen.com^
 @@||api-shoulei-ssl.xunlei.com^
 @@||*.ydstatic.com^
 @@||*.sankuai.com^
