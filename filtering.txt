@@ -1,3 +1,5 @@
+@@||astat.bugly.qq.com^
+@@||bugly.qq.com^
 @@||*.shifen.com^
 @@||shifen.com^
 @@||api-shoulei-ssl.xunlei.com^
