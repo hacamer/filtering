@@ -1,3 +1,9 @@
+[/elemecdn.com/]tls://dns.alidns.com
+[/elemecdn.com/]tls://dns.pub
+[/huya.com/]tls://dns.alidns.com
+[/huya.com/]tls://dns.pub
+[/ettdnsv.com/]tls://dns.alidns.com
+[/ettdnsv.com/]tls://dns.pub
 [/tencent-cloud.com/]tls://dns.alidns.com
 [/tencent-cloud.com/]tls://dns.pub
 [/126.net/]tls://dns.alidns.com
@@ -94,7 +100,6 @@
 [/hdslb.com/]tls://dns.pub
 [/hdslb.com/]tls://dns.alidns.com
 [/happyelements.cn/]tls://dns.pub
-[/puui.qpic.cn/]tls://dns.pub
 [/qpic.cn/]tls://dns.pub
 [/baidu.com/]tls://dns.pub
 [/mybank.cn/]tls://dns.pub
@@ -142,3 +147,6 @@
 [/gmail.com/]https://1dot1dot1dot1.cloudflare-dns.com/dns-query
 [/gmail.com/]https://dns.google.com/dns-query
 [/gmail.com/]https://dns.quad9.net/dns-query
+[/twitter.com/]https://1dot1dot1dot1.cloudflare-dns.com/dns-query
+[/twitter.com/]https://dns.google.com/dns-query
+[/twitter.com/]https://dns.quad9.net/dns-query
