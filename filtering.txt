@@ -1,4 +1,4 @@
-@@||s22.cnzz.com^
+@@||*.elemecdn.com^
 @@||astat.bugly.qq.com^
 @@||bugly.qq.com^
 @@||*.shifen.com^
