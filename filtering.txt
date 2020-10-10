@@ -1,3 +1,4 @@
+@@||*.alipaydns.com^
 @@||*.elemecdn.com^
 @@||astat.bugly.qq.com^
 @@||bugly.qq.com^
