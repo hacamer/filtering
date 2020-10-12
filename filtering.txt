@@ -1,3 +1,4 @@
+@@||s.click.tmall.com^
 @@||*.alipaydns.com^
 @@||*.elemecdn.com^
 @@||astat.bugly.qq.com^
