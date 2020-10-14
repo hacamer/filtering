@@ -1,3 +1,4 @@
+@@||*.cdntip.com^
 @@||s.click.tmall.com^
 @@||*.alipaydns.com^
 @@||*.elemecdn.com^
