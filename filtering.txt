@@ -1,3 +1,4 @@
+@@||*.effirst.com^
 @@||uland.taobao.com^
 @@||s.youtube.com^
 @@||*.ourplay.net^
