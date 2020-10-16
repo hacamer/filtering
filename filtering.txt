@@ -1,3 +1,4 @@
+@@||s.youtube.com^
 @@||*.ourplay.net^
 @@||*.cdntip.com^
 @@||s.click.tmall.com^
