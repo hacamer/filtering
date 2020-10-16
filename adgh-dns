@@ -1,3 +1,5 @@
+[/chinaunicom.com/]tls://dns.alidns.com
+[/tdnsv6.com/]tls://dns.alidns.com
 [/dlied1.cdntips.nett/]tls://dns.alidns.com
 [/dlied1.cdntips.nett/]tls://dns.pub
 [/myapp.com/]tls://dns.alidns.com
@@ -114,7 +116,6 @@
 [/hdslb.com/]tls://dns.pub
 [/hdslb.com/]tls://dns.alidns.com
 [/happyelements.cn/]tls://dns.pub
-[/qpic.cn/]tls://dns.pub
 [/baidu.com/]tls://dns.pub
 [/mybank.cn/]tls://dns.pub
 [/ele.me/]tls://dns.pub
