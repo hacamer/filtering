@@ -1,9 +1,17 @@
+[/dlied1.cdntips.nett/]tls://dns.alidns.com
+[/dlied1.cdntips.nett/]tls://dns.pub
+[/myapp.com/]tls://dns.alidns.com
+[/myapp.com/]tls://dns.pub
 [/kunluncan.com/]tls://dns.alidns.com
 [/kunluncan.com/]tls://dns.pub
+[/tbcache.com/]tls://dns.alidns.com
+[/tbcache.com/]tls://dns.pub
 [/alicdn.com/]tls://dns.alidns.com
 [/alicdn.com/]tls://dns.pub
 [/alibabadns.com/]tls://dns.alidns.com
 [/alibabadns.com/]tls://dns.pub
+[/alipaydns.com/]tls://dns.alidns.com
+[/alipaydns.com/]tls://dns.pub
 [/elemecdn.com/]tls://dns.alidns.com
 [/elemecdn.com/]tls://dns.pub
 [/huya.com/]tls://dns.alidns.com
@@ -109,7 +117,6 @@
 [/qpic.cn/]tls://dns.pub
 [/baidu.com/]tls://dns.pub
 [/mybank.cn/]tls://dns.pub
-[/qq.com/]tls://dns.pub
 [/ele.me/]tls://dns.pub
 [/alipay.com/]tls://dns.pub
 [/kuwo.cn/]tls://dns.pub
