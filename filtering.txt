@@ -1,3 +1,4 @@
+@@||*.ourplay.net^
 @@||*.cdntip.com^
 @@||s.click.tmall.com^
 @@||*.alipaydns.com^
