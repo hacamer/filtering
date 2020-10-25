@@ -212,6 +212,5 @@
 @@||pingtas.qq.com^
 @@||android.bugly.qq.com^
 @@||guanjia.qq.com^
-@@||*.woozooo.com^
 @@||m.qpic.cn^
 @@||*.doglobal.net^
