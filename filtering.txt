@@ -17,7 +17,6 @@
 @@||*.dianping.com^
 @@||*.meituan.net^
 @@||*.meituan.com^
-@@||dns.weixin.qq.com^
 @@||*.cdninstagram.com^
 @@||update.miui.com^
 @@||im.qq.com^
