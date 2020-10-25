@@ -22,7 +22,6 @@
 @@||im.qq.com^
 @@||*.ele.me^
 @@||*.happyelements.cn^
-@@||view.inews.qq.com^
 @@||api.sec.miui.com^
 @@||cdn.ark.qq.com^
 @@||*.wxs.qq.com^
