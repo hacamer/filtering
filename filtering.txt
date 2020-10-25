@@ -176,7 +176,6 @@
 @@||restapi.amap.com^
 @@||plbslog.umeng.com^
 @@||*.gdt.qq.com^
-||mi.gdt.qq.com^
 @@||*.duoku.com^
 @@||*.netease.com^
 @@||*.mkey.163.com^
