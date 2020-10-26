@@ -24,7 +24,6 @@
 @@||*.happyelements.cn^
 @@||api.sec.miui.com^
 @@||cdn.ark.qq.com^
-@@||*.wxs.qq.com^
 @@||*.bdimg.com^
 @@||t1.baidu.com^
 @@||t2.baidu.com^
