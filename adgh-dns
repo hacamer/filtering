@@ -7,11 +7,7 @@ https://doh.pub/dns-query
 4.2.2.2
 119.29.29.29
 182.254.116.116
-[/www.baidu10010.vip/]https://doh.pub/dns-query
-[/www.baidu-img.cn/]https://doh.pub/dns-query
-[/www.icloud.com.cn/]https://doh.pub/dns-query
-[/baidu10010.vip/]https://doh.pub/dns-query
-[/baidu-img.cn/]https://doh.pub/dns-query
+127.0.0.1:56
 [/icloud.com.cn/]https://doh.pub/dns-query
 [/akamaiedge.net/]https://doh.pub/dns-query
 [/apple-dns.cn/]https://doh.pub/dns-query
@@ -163,7 +159,6 @@ https://doh.pub/dns-query
 [/163.com/]https://doh.pub/dns-query
 [/ixaochuan.cn/]https://doh.pub/dns-query
 [/qpic.cn/]https://doh.pub/dns-query
-[/baidu.com/]https://doh.pub/dns-query
 [/mybank.cn/]https://doh.pub/dns-query
 [/qq.com/]https://doh.pub/dns-query
 [/ele.me/]https://doh.pub/dns-query
@@ -248,7 +243,6 @@ https://doh.pub/dns-query
 [/www.163.com/]https://doh.pub/dns-query
 [/www.ixaochuan.cn/]https://doh.pub/dns-query
 [/www.qpic.cn/]https://doh.pub/dns-query
-[/www.baidu.com/]https://doh.pub/dns-query
 [/www.mybank.cn/]https://doh.pub/dns-query
 [/www.qq.com/]https://doh.pub/dns-query
 [/www.ele.me/]https://doh.pub/dns-query
