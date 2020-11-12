@@ -7,7 +7,6 @@ https://doh.pub/dns-query
 4.2.2.2
 119.29.29.29
 182.254.116.116
-127.0.0.1:56
 [/icloud.com.cn/]https://doh.pub/dns-query
 [/akamaiedge.net/]https://doh.pub/dns-query
 [/apple-dns.cn/]https://doh.pub/dns-query
@@ -125,7 +124,6 @@ https://doh.pub/dns-query
 [/166.com/]https://doh.pub/dns-query
 [/alipaydns.com/]https://doh.pub/dns-query
 [/huawei.com/]https://doh.pub/dns-query
-[/shifen.com/]https://doh.pub/dns-query
 [/huorong.cn/]https://doh.pub/dns-query
 [/xunlei.com/]https://doh.pub/dns-query
 [/taichi-app.com/]https://doh.pub/dns-query
@@ -210,7 +208,6 @@ https://doh.pub/dns-query
 [/www.166.com/]https://doh.pub/dns-query
 [/www.alipaydns.com/]https://doh.pub/dns-query
 [/www.huawei.com/]https://doh.pub/dns-query
-[/www.shifen.com/]https://doh.pub/dns-query
 [/www.huorong.cn/]https://doh.pub/dns-query
 [/www.xunlei.com/]https://doh.pub/dns-query
 [/www.taichi-app.com/]https://doh.pub/dns-query
