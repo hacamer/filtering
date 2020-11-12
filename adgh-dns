@@ -2,11 +2,11 @@ https://24967.alidns.com/dns-query
 https://dns.google/dns-query
 https://1dot1dot1dot1.cloudflare-dns.com/dns-query
 https://dns.quad9.net/dns-query
-https://doh.pub/dns-query
 4.2.2.1
 4.2.2.2
 119.29.29.29
 182.254.116.116
+[/tb.cn/]https://24967.alidns.com/dns-query
 [/icloud.com.cn/]https://doh.pub/dns-query
 [/akamaiedge.net/]https://doh.pub/dns-query
 [/apple-dns.cn/]https://doh.pub/dns-query
