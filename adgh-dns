@@ -6,6 +6,10 @@ https://dns.quad9.net/dns-query
 4.2.2.2
 119.29.29.29
 182.254.116.116
+[/googlevideo.com/]https://1dot1dot1dot1.cloudflare-dns.com/dns-query
+[/googlevideo.com/]https://dns.google/dns-query
+[/www.googlevideo.com/]https://1dot1dot1dot1.cloudflare-dns.com/dns-query
+[/www.googlevideo.com/]https://dns.google/dns-query
 [/tb.cn/]https://24967.alidns.com/dns-query
 [/icloud.com.cn/]https://doh.pub/dns-query
 [/akamaiedge.net/]https://doh.pub/dns-query
