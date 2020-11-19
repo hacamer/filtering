@@ -197,7 +197,6 @@
 @@||ynuf.aliapp.org^
 @@||tv.sohu.com^
 @@||m.youtube.com^
-@@||*.aliyuncs.com^
 @@||*.alibabausercontent.com^
 @@||s.click.ele.me^
 @@||*.mybank.cn^
