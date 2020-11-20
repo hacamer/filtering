@@ -1,6 +1,7 @@
 @@||newton-api.ele.me^
 @@||ipassport.ele.me^
 @@||audid-api.taobao.com^
+@@||app-monitor.ele.me^
 @@||restapi.ele.me^
 @@||supervip.suning.com^
 @@||d.ifengimg.com^
