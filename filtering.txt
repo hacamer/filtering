@@ -1,3 +1,5 @@
+@@||mtop.ele.me^
+@@||shopping.ele.me^
 @@||newton-api.ele.me^
 @@||ipassport.ele.me^
 @@||audid-api.taobao.com^
