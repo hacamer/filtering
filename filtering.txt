@@ -8,7 +8,6 @@
 @@||*.cdntip.com^
 @@||s.click.tmall.com^
 @@||*.alipaydns.com^
-@@||*.elemecdn.com^
 @@||astat.bugly.qq.com^
 @@||bugly.qq.com^
 @@||*.shifen.com^
@@ -22,7 +21,6 @@
 @@||*.cdninstagram.com^
 @@||update.miui.com^
 @@||im.qq.com^
-@@||*.ele.me^
 @@||*.happyelements.cn^
 @@||api.sec.miui.com^
 @@||cdn.ark.qq.com^
