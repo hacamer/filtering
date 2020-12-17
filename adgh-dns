@@ -1,4 +1,12 @@
 ##国内dns分流
+[/oth.str.mdt.qq.com/]https://24967.alidns.com/dns-query
+[/game.str.mdt.qq.com/]https://24967.alidns.com/dns-query
+[/shortv.svideo.sched.dcloudstc.com/]https://24967.alidns.com/dns-query
+[/shortv.cdp.qq.com/]https://24967.alidns.com/dns-query
+[/tdnsv6.com/]https://24967.alidns.com/dns-query
+[/qqpublic.qpic.cn.sched.p1.tdnsv6.com/]https://24967.alidns.com/dns-query
+[/qqpublic.tc.qq.com/]https://24967.alidns.com/dns-query
+[/qqpublic.qpic.cn/]https://24967.alidns.com/dns-query
 [/interface.biliapi.com/]https://24967.alidns.com/dns-query
 [/icloud-content.com/]https://24967.alidns.com/dns-query
 [/qspfw.com/]https://24967.alidns.com/dns-query
