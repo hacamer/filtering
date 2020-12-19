@@ -1,8 +1,8 @@
+@@||bt.jd.com^
 @@||baidu.com^
 @@||sm.baidu.com^
 @@||mapi.m.jd.com^
 @@||h5.m.jd.com^
-@@||oth.str.mdt.qq.com^
 @@||n.sinaimg.cn^
 @@||acs4baichuan.m.taobao.com^
 @@||nsimg.net^
