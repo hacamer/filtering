@@ -1,3 +1,5 @@
+@@||baidu.com^
+@@||sm.baidu.com^
 @@||mapi.m.jd.com^
 @@||h5.m.jd.com^
 @@||oth.str.mdt.qq.com^
