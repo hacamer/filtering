@@ -1,3 +1,5 @@
+@@||h.trace.qq.com^
+@@||aegis.qq.com^
 @@||bt.jd.com^
 @@||baidu.com^
 @@||sm.baidu.com^
