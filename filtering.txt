@@ -1,3 +1,5 @@
+@@||weixin.scrcu.com^
+@@||pv.sohu.com
 @@||dl.op.wpscdn.cn^
 @@||gouwu.qq.com^
 @@||h5.youzan.com^
