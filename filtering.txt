@@ -1,7 +1,6 @@
 @@||ts.qq.com^
-@@||oth.eve.mdt.qq.com^
+@@||*.mdt.qq.com^
 @@||dp3.qq.com^
-@@||oth.str.mdt.qq.com^
 @@||weixin.scrcu.com^
 @@||pv.sohu.com
 @@||dl.op.wpscdn.cn^
@@ -25,7 +24,7 @@
 @@||gm.mmstat.com^
 @@||ttps^
 @@||uxmgnt.ele.me^
-@@sopush-primary-https-new.elemecdn.com^
+@@||sopush-primary-https-new.elemecdn.com^
 @@||nt2.ele.me^
 @@||mtop.ele.me^
 @@||shopping.ele.me^
