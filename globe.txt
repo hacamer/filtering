@@ -1,3 +1,5 @@
+2.na.dl.wireshark.org
+wireshark.org
 googlevideo.com
 coreappsprod.azureedge.net
 icloud-content.com
