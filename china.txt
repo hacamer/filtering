@@ -1,3 +1,5 @@
+ti.qq.com
+h5.qzone.qq.com
 dlied1.tcdn.qq.com
 msauth.net
 tapdb.net
