@@ -4,7 +4,6 @@
 @@||ca.iadsdk.apple.com^
 @@||ts.qq.com^
 @@||*.mdt.qq.com^
-@@||dp3.qq.com^
 @@||weixin.scrcu.com^
 @@||pv.sohu.com
 @@||dl.op.wpscdn.cn^
@@ -113,7 +112,6 @@
 @@||pp.myapp.com^
 @@||duiba.com.cn^
 @@||t.me^
-@@||btrace.qq.com^
 @@||graph.qq.com^
 @@||api.account.xiaomi.com^
 @@||metok.sys.miui.com^
