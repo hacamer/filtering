@@ -1,3 +1,4 @@
+duckduckgo.com
 photos-ugc.l.googleusercontent.com
 vfiles.gtimg.cn.cdn.ettdnsv.com
 github-production-release-asset-2e65be.s3.amazonaws.com
