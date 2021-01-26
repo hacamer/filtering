@@ -1,4 +1,9 @@
 ##国内dns分流
+[/duckduckbot.com/]tls://24967.alidns.com
+[/a.app.qq.com/]tls://24967.alidns.com
+[/baidu.com/]tls://24967.alidns.com
+[/qzone.qq.com/]tls://24967.alidns.com
+[/wappass.baidu.com/]tls://24967.alidns.com
 [/tapdb.net/]tls://24967.alidns.com
 [/taptap.com/]tls://24967.alidns.com
 [/taptapdada.com/]tls://24967.alidns.com
