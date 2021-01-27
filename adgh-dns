@@ -1,4 +1,9 @@
 ##国内dns分流
+[/v.qq.com/]tls://dns.alidns.com
+[/puui.qpic.cn/]tls://dns.alidns.com
+[/thirdqq.qlogo.cn/]tls://dns.alidns.com
+[/i.gtimg.cn/]tls://dns.alidns.com
+[/mmbiz.qpic.cn/]tls://dns.alidns.com
 [/duckduckbot.com/]tls://24967.alidns.com
 [/a.app.qq.com/]tls://24967.alidns.com
 [/baidu.com/]tls://24967.alidns.com
