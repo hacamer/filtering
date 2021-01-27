@@ -1,3 +1,7 @@
+time.apple.com
+time-osx.g.aaplimg.com
+time.android.com
+time.windows.com
 duckduckbot.com
 duckduckgo.com
 photos-ugc.l.googleusercontent.com
