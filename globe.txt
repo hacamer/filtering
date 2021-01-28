@@ -1,3 +1,4 @@
+deb.xanmod.org
 time.apple.com
 time-osx.g.aaplimg.com
 time.android.com
