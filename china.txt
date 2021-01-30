@@ -1,3 +1,9 @@
+v9-z.douyinvod.com
+aiengineonrt-stsdk.vivo.com.cn
+p14-caldav.icloud.com
+caldav.fe.apple-dns.net
+appservice.qq.com
+configserver.hicloud.com.
 xp.apple.com
 apd-vodp2plogin.teg.tencent-cloud.net
 www.wshifen.com
