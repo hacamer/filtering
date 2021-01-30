@@ -1,3 +1,4 @@
+daff4db3-dnsotls-ds.metric.gstatic.com
 app.goo.gl
 central.github.com
 wallet.google.com
