@@ -1,4 +1,5 @@
 array609.prod.do.dsp.mp.microsoft.com
+adaway.org
 collector-hpn.ghostery.net
 collector-hpn.privacy.ghostery.net
 array505.prod.do.dsp.mp.microsoft.com
