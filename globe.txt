@@ -1,3 +1,11 @@
+app.goo.gl
+central.github.com
+wallet.google.com
+storage.mds.yandex.net
+near.by
+www2.bing.com
+www.bing.com
+login.microsoftonline.com
 fir-auth-gms.firebaseapp.com
 yandex.ru
 business.google.com
