@@ -1,4 +1,8 @@
- tp.sms.cytxl.com.cn
+v9.pstatp.com
+mikimiki.dailytu.com
+static-res.qq.com
+bwr8jW-dnsotls-ds.metric.gstatic.com
+tp.sms.cytxl.com.cn
 dp2.im.weibo.cn
 safebrowsing.urlsec.qq.com
 api.kuaishouzt.com
