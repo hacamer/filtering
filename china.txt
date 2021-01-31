@@ -1,4 +1,9 @@
 v9.pstatp.com
+uranus.jd.com
+ccfcommon.m.jd.com
+api.smoot.apple.cn
+m.toutiao.com
+dl.url.cn
 mikimiki.dailytu.com
 static-res.qq.com
 bwr8jW-dnsotls-ds.metric.gstatic.com
