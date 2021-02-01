@@ -1,6 +1,11 @@
 v9.pstatp.com
 uranus.jd.com
+push-rtmp-l6.douyincdn.com
+douyincdn.com
+bnc66.com
+hb.kg.qq.com
 ccfcommon.m.jd.com
+mp.weixin.qq.com
 api.smoot.apple.cn
 m.toutiao.com
 dl.url.cn
