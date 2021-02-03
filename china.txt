@@ -1,3 +1,4 @@
+dl-static.iqiyi.com
 v9.pstatp.com
 uranus.jd.com
 push-rtmp-l6.douyincdn.com
