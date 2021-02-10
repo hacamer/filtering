@@ -1,3 +1,13 @@
+jsonatm.broker.tplay.qq.com
+service-h00wj1s0-1251449031.gz.apigw.tencentcs.com
+service-hzv6xyx2-1251449031.gz.apigw.tencentcs.com
+ap6.ssl.msdk.qq.com
+priv.igame.qq.com
+mmgr.myapp.com
+post.ksosoft.com
+m.qpic.cn
+s-v6-plt03.ugslb.com
+applecsb.crm.189.cn
 down2.faloo.com
 c1.kuangxiangit.com
 dl-static.iqiyi.com
