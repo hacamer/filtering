@@ -1,3 +1,5 @@
+h5api.m.taobao.com
+assets.taobao.com
 sqimg.qq.com
 cfg.imtt.qq.com
 log.tbs.qq.com
