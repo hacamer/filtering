@@ -1,6 +1,5 @@
 @@||astrategy.beacon.qq.com^
 @@||aeventlog.beacon.qq.com^
-@@||dp3.qq.com^
 @@||groupclient.qq.com^
 @@||btrace.qq.com^
 @@||tyaqy.m.cn.miaozhen.com^
