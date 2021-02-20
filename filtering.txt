@@ -1,3 +1,4 @@
+@@||www.youtube.com^
 @@||push2.eastmoney.com^
 @@||astrategy.beacon.qq.com^
 @@||groupclient.qq.com^
