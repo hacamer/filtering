@@ -1,5 +1,6 @@
 jokerps.lanzoux.com
 www.lanzou.com
+lanzou.com
 wwa.lanzou.com
 h5api.m.taobao.com
 assets.taobao.com
