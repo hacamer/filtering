@@ -1,3 +1,5 @@
+@@||qm.qq.com^
+@@||youpinapi.zhuanzhuan.com^
 @@||www.youtube.com^
 @@||push2.eastmoney.com^
 @@||astrategy.beacon.qq.com^
