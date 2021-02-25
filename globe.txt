@@ -1,3 +1,5 @@
+video.twimg.com
+twimg.com
 dnsclient.net
 g.sunjianlong.com
 filters.adtidy.org
