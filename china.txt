@@ -7,13 +7,6 @@ pd.itunes.apple.com
 www.xiaomi.cn
 cdn.cnbj1.fds.api.mi-img.com
 xiaomi.cn
-www.lanzoux.com
-lanzoux.com
-lanzous.com
-jokerps.lanzoux.com
-www.lanzou.com
-lanzou.com
-wwa.lanzou.com
 h5api.m.taobao.com
 assets.taobao.com
 sqimg.qq.com
