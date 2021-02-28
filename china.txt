@@ -210,7 +210,6 @@ dnsv1.com
 jialingmm.net
 bilivideo.com
 biliapi.net
-sinaimg.cn
 goproxy.io
 oneplus.com
 h2os.com
