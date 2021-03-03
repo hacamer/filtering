@@ -1,3 +1,6 @@
+clientservices.googleapis.com
+accounts.google.com
+dl.google.com
 mtalk.google.com
 datk.tk
 video.twimg.com
