@@ -1,3 +1,4 @@
+goproxy.io
 clientservices.googleapis.com
 accounts.google.com
 dl.google.com
