@@ -1,3 +1,4 @@
+baidu.com
 bdydns.com
 www.beian.gov.cn
 weibocdn.com
