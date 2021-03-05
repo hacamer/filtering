@@ -1,3 +1,4 @@
+@@||zhuti.xiaomi.com^
 @@||gsa.apple.com^$important
 @@||alsc-buy2.ele.me^
 @@||stat.10jqka.com.cn^
@@ -117,7 +118,6 @@
 @@||*.video.xiaomi.com^
 @@||inews.gtimg.com^
 @@||duapps.com^
-@@||*.snssdk.com^
 @@||mobile.appchina.com^
 @@||connect.rom.miui.com^
 @@||get.sogou.com^
