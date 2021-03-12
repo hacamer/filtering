@@ -1,3 +1,4 @@
+nextdns.io
 dl.google.com
 login.live.com
 home-portal.office.com
