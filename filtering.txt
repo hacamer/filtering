@@ -1,3 +1,5 @@
+@@||chrome.cloudflare-dns.com^
+@@||cloudflare-dns.com^
 @@||login.live.com^
 @@||ib.snssdk.com^
 @@||sf6-ttcdn-tos.pstatp.com^
