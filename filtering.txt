@@ -136,7 +136,6 @@
 @@||connect.rom.miui.com^
 @@||get.sogou.com^
 @@||twimg.com^
-@@||mam.netease.com^
 @@||pp.myapp.com^
 @@||duiba.com.cn^
 @@||t.me^
