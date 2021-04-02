@@ -1,3 +1,7 @@
+developer.spotify.com
+spotify.com
+sharing-config.spotifycdn.com
+spotifycdn.com
 nextdns.io
 dl.google.com
 login.live.com
