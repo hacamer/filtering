@@ -1,4 +1,5 @@
-@@||dns.google.com
+@@||a.a^
+@@||dns.google.com^
 @@||163.lu^
 @@||act.qzone.qq.com^
 @@||exposure-notification.fe.apple-dns.net^
