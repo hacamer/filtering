@@ -1,7 +1,6 @@
 @@||m.zhuanzhuan.com^
 @@||api.vip.miui.com^
 @@||isee.weishi.qq.com^
-@@||a.a^
 @@||dns.google.com^
 @@||163.lu^
 @@||act.qzone.qq.com^
@@ -60,7 +59,6 @@
 @@||www.huya.com^
 @@||m.huya.com^
 @@||gm.mmstat.com^
-@@||ttps^
 @@||uxmgnt.ele.me^
 @@||sopush-primary-https-new.elemecdn.com^
 @@||nt2.ele.me^
