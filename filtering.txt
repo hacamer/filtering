@@ -1,3 +1,5 @@
+@@||api.zhuti.xiaomi.com^
+@@||cal.meizu.com^
 @@||m.zhuanzhuan.com^
 @@||api.vip.miui.com^
 @@||isee.weishi.qq.com^
