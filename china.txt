@@ -1,3 +1,5 @@
+cal.meizu.com
+meizu.com
 m.zhuanzhuan.com
 zhuanzhuan.com
 api.vip.miui.com
