@@ -1,3 +1,7 @@
+@@||jump.alibaba.com^
+@@||na61-na62.wagbridge.advertisement.tanx.com^
+@@||access.open.uc.cn^
+@@||*.res.wpscdn.cn^
 @@||api.zhuti.xiaomi.com^
 @@||cal.meizu.com^
 @@||m.zhuanzhuan.com^
