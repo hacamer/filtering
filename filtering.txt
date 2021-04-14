@@ -159,7 +159,6 @@
 @@||*.aliyun.com^
 @@||toutiaocdn.com^
 @@||*.qlogo.cn^
-@@||*.sm.cn^
 @@||sina.cn^
 @@||broccoli.uc.cn^
 @@||t.co^
