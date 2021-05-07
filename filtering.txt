@@ -1,3 +1,4 @@
+@@||update.pan.baidu.com^
 @@||acs.m.taobao.com^
 ttp
 @@||jump.alibaba.com^
