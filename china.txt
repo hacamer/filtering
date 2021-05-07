@@ -1,3 +1,4 @@
+update.pan.baidu.com
 expeva.store.qq.com
 cloudlive-xp2p.kpl.qq.com
 oth.eve.mdt.qq.com
