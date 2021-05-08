@@ -1,3 +1,5 @@
+deb.debian.org
+debian.map.fastlydns.net
 developer.spotify.com
 spotify.com
 sharing-config.spotifycdn.com
