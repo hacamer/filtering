@@ -2,7 +2,6 @@
 @@||sp0.baidu.com^
 @@||sp2.baidu.com^
 @@||*.pcs.baidu.com^
-@@||staticsns.cdn.bcebos.com^
 @@||update.pan.baidu.com^
 @@||acs.m.taobao.com^
 ttp
