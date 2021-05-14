@@ -1,3 +1,5 @@
+mqtt-mini.facebook.com
+edge-mqtt.facebook.com
 wp.com
 deb.debian.org
 debian.map.fastlydns.net
