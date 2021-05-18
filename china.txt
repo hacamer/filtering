@@ -1,3 +1,7 @@
+api.weibo.cn
+api.weibo.com
+weibo.cn
+weibo.com
 gravatar.wp-china-yes.net
 update.pan.baidu.com
 expeva.store.qq.com
