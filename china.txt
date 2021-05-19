@@ -1,3 +1,4 @@
+weishi.qq.com
 api.weibo.cn
 api.weibo.com
 weibo.cn
