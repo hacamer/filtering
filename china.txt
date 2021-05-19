@@ -1,3 +1,5 @@
+hitv.com
+weatherapi.intl.xiaomi.com
 bytedance.com
 bytecdn.cn
 bdxiguaimg.com
