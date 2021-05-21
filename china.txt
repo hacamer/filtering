@@ -1,3 +1,4 @@
+cgi.connect.qq.com
 hitv.com
 weatherapi.intl.xiaomi.com
 bytedance.com
