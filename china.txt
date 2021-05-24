@@ -1,3 +1,4 @@
+short-video.kakamobi.cn
 cdn.jsdelivr.net
 cgi.connect.qq.com
 hitv.com
