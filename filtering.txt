@@ -1,3 +1,4 @@
+@@||cdn.jsdelivr.net^
 @@||puui.qpic.cn^
 @@||sp1.baidu.com^
 @@||sp0.baidu.com^
