@@ -1,3 +1,4 @@
+publicassets.cdn-apple.com
 tva1.sinaimg.cn
 short-video.kakamobi.cn
 cdn.jsdelivr.net
