@@ -1,3 +1,4 @@
+zhimg.com
 weather-data.apple.com
 tinychinacdnweb.qiniu.com.w.kunlunno.com
 publicassets.cdn-apple.com
