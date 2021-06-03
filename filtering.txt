@@ -1,3 +1,4 @@
+@@||*.zhimg.com^
 @@||tinychinacdnweb.qiniu.com.w.kunlunno.com^
 @@||store.iqiyi.com^
 @@||short-video.kakamobi.cn^
