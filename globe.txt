@@ -1,3 +1,6 @@
+apkpure.com
+static.apkpure.com
+download.apkpure.com
 mqtt-mini.facebook.com
 edge-mqtt.facebook.com
 wp.com
