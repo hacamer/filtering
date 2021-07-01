@@ -1,3 +1,4 @@
+@@||*.cname-cdn.vip^
 @@||*.cdn.jiashule.com^
 @@||graph.facebook.com^
 @@||ioshost.qtlcdn.com^
