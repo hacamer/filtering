@@ -1,3 +1,4 @@
+@@||*.yunjiasu-cdn^
 @@||*.sogoucdn.com^
 @@||*.cname-cdn.vip^
 @@||*.cdn.jiashule.com^
