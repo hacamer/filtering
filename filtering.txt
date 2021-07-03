@@ -1,3 +1,4 @@
+@@||quark.sm.cn^
 @@||*.yunjiasu-cdn^
 @@||*.sogoucdn.com^
 @@||*.cname-cdn.vip^
