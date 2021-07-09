@@ -1,3 +1,4 @@
+@@||tongji.baidu.com^
 @@||*.ksyuncdn.com^
 @@||*.ks-cdn.com^
 @@||*.woozooo.com^
