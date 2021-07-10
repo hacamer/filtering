@@ -1,3 +1,4 @@
+secure.gravatar.com
 netcolingne.dl.sourceforge.net
 fanatical.com
 humblebundle.com
