@@ -1,3 +1,4 @@
+@@||pub-gw.idreamsky.com^
 @@||i.snssdk.com^
 @@||ai.m.taobao.com^
 @@||tongji.baidu.com^
