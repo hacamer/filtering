@@ -1,6 +1,6 @@
+douyinvod.com
 pub-gw.idreamsky.com
 i.snssdk.com
-snssdk.com
 cdnhwc1.com
 cdnhwc2.com
 kunlunar.com
@@ -122,7 +122,6 @@ hlsmgspvod.miguvideo.com
 ehall.njmu.edu.cn
 druid.if.qidian.com
 reader.sh.vip.qq.com
-skynet.bilivideo.com
 baidu.com
 bdydns.com
 www.beian.gov.cn
@@ -253,19 +252,15 @@ v26-dy-cold.ixigua.com
 sf0.market.xiaomi.com
 api.browser.miui.com
 www.mi.com
-v5.douyinvod.com
 dlied6.qq.com
 dldir1.qq.com
 api-cn.cdo.heytapmobi.com
 p9.douyinpic.com
-v9-z.douyinvod.com
 aiengineonrt-stsdk.vivo.com.cn
 p14-caldav.icloud.com
 caldav.fe.apple-dns.net
 appservice.qq.com
 configserver.hicloud.com
-upos-sz-staticks3.bilivideo.com
-upos-sz-mirrorks3o1.bilivideo.com
 legov6.tcdn.qq.com
 showv6.gtimg.cn
 stun.qqlive.qq.com
