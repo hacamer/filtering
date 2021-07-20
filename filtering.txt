@@ -1,3 +1,4 @@
+@@||hw.zuimeitianqi.com^
 @@||ssl.msdk.qq.com^
 @@||img1.gtimg.com^
 @@||shark2.douyucdn.cn^
