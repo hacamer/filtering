@@ -1,3 +1,4 @@
+@@||gsp0.baidu.com^
 @@||hw.zuimeitianqi.com^
 @@||ssl.msdk.qq.com^
 @@||img1.gtimg.com^
