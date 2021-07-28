@@ -1,3 +1,5 @@
+live2d-apiii.vercel.app
+vercel.app
 secure.gravatar.com
 netcolingne.dl.sourceforge.net
 fanatical.com
