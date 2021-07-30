@@ -1,3 +1,6 @@
+@@||url.cn^
+@@||qqpublic.qpic.cn^
+@@||s8.url.cn^
 @@||f1.baidu.com^
 @@||f2.baidu.con^
 @@||f3.baidu.com^
