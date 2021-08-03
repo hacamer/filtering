@@ -1,5 +1,3 @@
-guzzoni-apple-com.v.aaplimg.com
-amp-api.apps.apple.com.cdn20.com
 cmshow.gtimg.cn
 ts.qq.com
 pacaio.match.qq.com
