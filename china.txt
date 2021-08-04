@@ -1,3 +1,14 @@
+sns-like.iqiyi.com
+bar.i.dns.iqiyi.com
+muses-ugc.iqiyi.com
+apigateway.iqiyi.com
+api.t.dns.iqiyi.com
+api-t.iqiyi.com
+ipv6-static.dns.iqiyi.com
+dx-cmts.iqiyi.com
+baiducdncmn3.inter.iqiyi.com
+opencdniqiyi.jomodns.com
+ai.taobao.com
 cmshow.gtimg.cn
 ts.qq.com
 pacaio.match.qq.com
