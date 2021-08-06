@@ -1,3 +1,5 @@
+@@||sugar.zhihu.com^
+@@||re.taobao.com^
 @@||dc.sigmob.cn^
 @@||appsupport.qq.com^
 @@||cgi.connect.qq.com^
