@@ -1,3 +1,8 @@
+sugar.zhihu.com
+re.taobao.com
+dc.sigmob.cn
+appsupport.qq.com
+cgi.connect.qq.com
 sns-like.iqiyi.com
 bar.i.dns.iqiyi.com
 muses-ugc.iqiyi.com
