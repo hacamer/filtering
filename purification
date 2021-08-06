@@ -5,8 +5,10 @@ muses-ugc.iqiyi.com
 apigateway.iqiyi.com
 api.t.dns.iqiyi.com
 api-t.iqiyi.com
-ipv6-static.dns.iqiyi.com
 dx-cmts.iqiyi.com
+dx-static-d.iqiyi.com
+dx-static-s.iqiyi.com
+dx-statics-web.iqiyi.com
 baiducdncmn3.inter.iqiyi.com
 opencdniqiyi.jomodns.com
 300hu.com
