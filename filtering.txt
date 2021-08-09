@@ -131,7 +131,6 @@ ttp
 @@||h5.youzan.com^
 @@||wap.10010.com^
 @@||h.trace.qq.com^
-@@||aegis.qq.com^
 @@||bt.jd.com^
 @@||sm.baidu.com^
 @@||mapi.m.jd.com^
