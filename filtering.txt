@@ -1,3 +1,6 @@
+@@||g.alicdn.com^
+@@||aeu.alicdn.com^
+@@||img.alicdn.com^
 @@||valipl.cp31.ott.cibntv.net^
 @@||lego.zhuanzhuan.com^
 @@||wan.slb01.zhuanzhuan.com^
