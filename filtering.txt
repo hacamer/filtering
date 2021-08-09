@@ -315,7 +315,6 @@ ttp
 @@||jr.jd.com^
 @@||qun.qzone.qq.com^
 @@||ohssr.cn^
-@@||*.alicdn.com^
 @@||*.ykimg.com^
 @@||*.market.xiaomi.com^
 @@||dmm.co.jp^
