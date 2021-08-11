@@ -1,4 +1,7 @@
 valipl.cp31.ott.cibntv.net
+capi.voice.gcloud.qq.com
+publish-pic-cpu.baidu.com
+cpucdn.baidu.com
 sugar.zhihu.com
 re.taobao.com
 dc.sigmob.cn
