@@ -1,3 +1,4 @@
+api.onedrive.com
 steam-chat.com
 live2d-apiii.vercel.app
 vercel.app
