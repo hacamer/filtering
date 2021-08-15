@@ -1,3 +1,7 @@
+@@||data.sec.miui.com^
+@@||icloud.com.cn^
+@@||api.e.kuaishou.com^
+@@||api2.e.kuaishou.com^
 @@||aegis.qq.com^
 @@||data.sec.miui.com^
 @@||ai.advertisement.alibabacorp.sm.cn^
