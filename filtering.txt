@@ -1,3 +1,4 @@
+@@||log.gds.mmstat.com^
 @@||cashier.ele.me^
 @@||grand.ele.me^
 @@||buy.ele.me^
