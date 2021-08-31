@@ -1,3 +1,5 @@
+im0-tub-com.yandex.net
+yandex.net
 api.onedrive.com
 steam-chat.com
 live2d-apiii.vercel.app
