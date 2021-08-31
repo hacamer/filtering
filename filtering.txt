@@ -1,10 +1,7 @@
-@@||mm.jbzj.com^
-@@||s95.cnzz.com^
+@@||jbzj.com^
 @@||tejia.taobao.com^
 @@||appdownload.alicdn.com^
 @@||icws.jb51.net^
-@@||static.jbzj.com^
-@@||img.jbzj.com^
 @@||log.gds.mmstat.com^
 @@||cashier.ele.me^
 @@||grand.ele.me^
