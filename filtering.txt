@@ -1,4 +1,5 @@
-@@||an.yandex.^
+@@||avatars.mds.yandex.net^
+@@||an.yandex.ru^
 @@||jbzj.com^
 @@||tejia.taobao.com^
 @@||appdownload.alicdn.com^
