@@ -1,3 +1,5 @@
+dashboard.heroku.com
+heroku.com
 im0-tub-com.yandex.net
 yandex.net
 avatars.mds.yandex.net
