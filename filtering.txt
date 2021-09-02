@@ -1,3 +1,4 @@
+@@||www.10010.com^
 @@||apigateway.iqiyi.com^
 @@||m.moguvet.com^
 @@||avatars.mds.yandex.net^
