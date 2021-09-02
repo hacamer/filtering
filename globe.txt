@@ -1,3 +1,17 @@
+p16-tiktokcdn-com.akamaized.net
+byteoversea.com
+ibytedtos.com
+ibyteimg.com
+ipstatp.com
+muscdn.com
+musical.ly
+sgpstatp.com
+snssdk.com
+tik-tokapi.com
+tiktok.com
+tiktokcdn.com
+tiktokv.com
+tiktokcdn-com
 dashboard.heroku.com
 heroku.com
 herokuapp.com
