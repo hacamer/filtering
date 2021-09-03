@@ -1,3 +1,5 @@
+@@||login.bce.baidu.com^
+@@||ad.zcool.com.cn^
 @@||www.10010.com^
 @@||apigateway.iqiyi.com^
 @@||m.moguvet.com^
