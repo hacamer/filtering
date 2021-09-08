@@ -1,3 +1,4 @@
+@@||bce-cdn.bj.bcebos.com^
 @@||console.bce.baidu.com^
 @@||yunjiasu-cdn.net^
 @@||login.bce.baidu.com^
