@@ -1,3 +1,4 @@
+@@||console.bce.baidu.com^
 @@||yunjiasu-cdn.net^
 @@||login.bce.baidu.com^
 @@||ad.zcool.com.cn^
