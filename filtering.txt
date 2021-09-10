@@ -1,3 +1,4 @@
+@@||store-images.s-microsoft.com^
 @@||default.cn.zb.wagbridge.ad.alibabacorp.com^
 @@||default.cn.zb.wagbridge.ad.alibabacorp.com.gds.alibabadns.com^
 @@||cas.baidu.com^
