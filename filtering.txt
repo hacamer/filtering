@@ -1,3 +1,4 @@
+@@||imgstat.baidu.com^
 @@||v6lvs.com^
 @@||qzs.qq.com^
 @@||store-images.s-microsoft.com^
