@@ -9,8 +9,6 @@ on:
       - main
   schedule:
     - cron: '0 */2 * * *'
-#   issues:
-#     types: [opened] 
 
 jobs:
   build:
