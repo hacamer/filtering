@@ -1,3 +1,6 @@
+epdg.epc.geo.mnc260.mcc310.pub.3Gppnetwork.org
+epdg.epc.mnc260.mcc310.pub.3gppnetwork.org
+ss.epdg.epc.mnc260.mcc310.pub.3gppnetwork.org
 store-images.s-microsoft.com
 p16-tiktokcdn-com.akamaized.net
 byteoversea.com
