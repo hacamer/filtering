@@ -1,1 +1,1 @@
-python ph.py -f SteamDomains GithubDomains EpicDomains VOwifiDomains -o hosts
+python ph.py -f SteamDomains GithubDomains EpicDomains VowifiDomains -o hosts
