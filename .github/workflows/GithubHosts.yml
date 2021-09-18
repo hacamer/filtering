@@ -5,8 +5,6 @@ name: GithubHosts
 
 on:
   push:
-    branches:    
-      - main
   schedule:
     - cron: '0 */2 * * *'
 
