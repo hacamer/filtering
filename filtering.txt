@@ -1,3 +1,4 @@
+@@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
 @@||qzs.qq.com^
