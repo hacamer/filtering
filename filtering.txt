@@ -66,7 +66,6 @@
 @@||natfrp.cloud^
 @@||cmshow.gtimg.cn^
 @@||pacaio.match.qq.com^
-@@||gg.^
 @@||idqqimg.com^
 @@||a-0001.a-msedge.net^
 @@||url.cn^
