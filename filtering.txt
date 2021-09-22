@@ -100,7 +100,7 @@
 @@||tongji.baidu.com^
 @@||*.ksyuncdn.com^
 @@||*.ks-cdn.com^
-@@||*.woozooo.com^
+@@||pc.woozooo.com^
 @@||pub.idqqimg.com^
 @@||cmts.iqiyi.com^
 @@||quark.sm.cn^
@@ -262,7 +262,6 @@ ttp
 @@||dldir1.qq.com^
 @@||weixin.qq.com^
 @@||*.img.mobile.sina.cn^
-@@||*.126.net^
 @@||quan.suning.com^
 @@||mparticle.uc.cn^
 @@||g.shumafen.cn^
@@ -285,7 +284,6 @@ ttp
 @@||mibi.api.xiaomi.com^
 @@||t.cn^
 @@||work.weixin.qq.com^
-@@||*.aliyun.com^
 @@||toutiaocdn.com^
 @@||*.qlogo.cn^
 @@||sina.cn^
@@ -347,7 +345,6 @@ ttp
 @@||recmd.html5.qq.com^
 @@||debugtbs.qq.com^
 @@||3gimg.qq.com^
-@@||*.m.qq.com^
 @@||*.map.qq.com^
 @@||dnet.mb.qq.com^
 @@||web.vip.miui.com^
@@ -389,7 +386,6 @@ ttp
 @@||*.app.qq.com^
 @@||*.tencent-cloud.net^
 @@||cnbj1.fds.api.xiaomi.com^
-@@||*.qzone.qq.com^
 @@||sourl.cn^
 @@||alissl.ucdl.pp.uc.cn^
 @@||ynuf.aliapp.org^
@@ -397,9 +393,7 @@ ttp
 @@||*.alibabausercontent.com^
 @@||s.click.ele.me^
 @@||*.mybank.cn^
-@@||www.qq.com^
 @@||cn.bing.com^
-@@||360.cn^
 @@||dlied6.qq.com^
 @@||misc.wcd.qq.com^
 @@||pingtas.qq.com^
