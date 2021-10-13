@@ -1,4 +1,6 @@
 @@||zhstatic.zhihu.com^
+@@||guid.tpns.tencent.com^
+@@||zhstatic.zhihu.com^
 @@||gbres.dfcfw.com^
 @@||dfscdn.dfcfw.com^
 @@||mall.bilibili.com^
