@@ -1,3 +1,7 @@
+dns.msftncsi.com
+www.msftconnecttest.com
+www.msftncsi.com
+ipv6.msftconnecttest.com
 epdg.epc.geo.mnc260.mcc310.pub.3Gppnetwork.org
 epdg.epc.mnc260.mcc310.pub.3gppnetwork.org
 ss.epdg.epc.mnc260.mcc310.pub.3gppnetwork.org
