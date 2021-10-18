@@ -43,7 +43,6 @@ netflixdnstest5.com
 netflixdnstest8.com
 nflxext.com
 nflximg.com
-nflximg.net
 casting.prod.netflix.net
 ir.netflix.net
 npaa.pc.netflix.net
