@@ -1,3 +1,5 @@
+iphonesubmissions.v.aaplimg.com
+iphonesubmissions.apple.com
 dns.msftncsi.com
 www.msftconnecttest.com
 www.msftncsi.com
