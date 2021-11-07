@@ -1,1 +1,1 @@
-python ph.py -f SteamDomains GithubDomains EpicDomains VowifiDomains NetflixDomains GoogleFcmDomains MSDomains TeredoDomains -o hosts
+python ph.py -f GithubDomains GoogleFcmDomains -o hosts
