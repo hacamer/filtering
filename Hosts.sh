@@ -1,1 +1,1 @@
-python ph.py -f GithubDomains GoogleFcmDomains -o hosts
+python ph.py -f GithubDomains GoogleFcmDomains APKPUREDM -o hosts
