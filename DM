@@ -1,0 +1,4 @@
+sb.adtidy.org
+adtidy.org
+filters.adtidy.org
+userscripts.adtidy.org
