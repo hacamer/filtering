@@ -36,6 +36,7 @@ jobs:
         git config --global user.name hacamer
         git add .
         git commit -m "update hosts at $(date)"
+        git push -f
       continue-on-error: true
 
     - name: Push changes
