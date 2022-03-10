@@ -27,14 +27,15 @@ jobs:
         python -m pip install --upgrade pip
         if [ -f requirements ]; then pip install -r requirements; fi
         
+
+    - name: update hosts
+      run: sh Hosts.sh
     - name: Deliver download Dir
       uses: actions/upload-artifact@v2
       with:
           name: AllFiles
           path: |
             ./
-    - name: update hosts
-      run: sh Hosts.sh
     - name: commit
       id: commit
       run: |
