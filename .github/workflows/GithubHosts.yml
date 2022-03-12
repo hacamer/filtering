@@ -39,6 +39,7 @@ jobs:
     - name: commit
       id: commit
       run: |
+        git init
         git config --global user.email hcamer145@gmail.com
         git config --global user.name hacamer
         git add .
